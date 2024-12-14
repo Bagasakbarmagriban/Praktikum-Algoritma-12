@@ -1,0 +1,31 @@
+DATA NEGARA,BENUA,COMPLETED
+
+         Negara      Ibu Kota   Benua  Luas  Populasi
+      Indonesia       Jakarta    Asia  1905       264
+         Jepang         Tokyo    Asia   377       143
+          India     New Delhi    Asia  3287      1252
+          China       Beijing    Asia  9597      1357
+Amerika Serikat Washington DC Amerika  9834       329
+         Brazil      Brazilia Amerika  8515       210
+          Rusia        Moskow    Asia 17098       146
+        Meksiko  Meksiko City Amerika  1964       126
+        Nigeria         Abuja  Afrika   923       200
+         Jerman        Berlin   Eropa   357        83
+       Aljazair      Aljazair  Afrika  2381        43
+        Inggris        London   Eropa   242        66
+=========================================================
+Hasil Mean:
+           Luas    Populasi
+Benua                      
+Afrika   1652.0  121.500000
+Amerika  6771.0  221.666667
+Asia     6452.8  632.400000
+Eropa     299.5   74.500000
+=========================================================
+Standart Deviation:
+                Luas    Populasi
+Benua                           
+Afrika   1030.961687  111.015765
+Amerika  4214.899406  102.001634
+Asia     6906.996395  616.596546
+Eropa      81.317280   12.020815
